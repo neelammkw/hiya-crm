@@ -9,7 +9,7 @@ export const initialProductLine: ProductLine = {
 export const initialInvoice: Invoice = {
   logo: "",
   logoWidth: 100,
-  title: 'INVOICE',
+  title: 'ESTIMATE',
   companyName: 'HIYA ENTERPRISE',
   name: '',
   companyAddress: '58, Raneshwarnagar Sociry,',
