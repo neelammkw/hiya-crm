@@ -1,6 +1,5 @@
 import { FC, useState, useEffect} from 'react'
 import { Invoice, ProductLine } from '../data/types'
-import { Image } from '@react-pdf/renderer';
 import { initialInvoice, initialProductLine } from '../data/initialData'
 import EditableInput from './EditableInput'
 import EditableSelect from './EditableSelect'
